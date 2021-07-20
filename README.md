@@ -3,7 +3,9 @@ I Love &hearts; to work on cool stuffs!!
 * 🔭 I am working on Full Stack Web Development with frameworks like React, Express and Django. <br/>
 * 🌱 I am also working on Android Development using Java language.
 
-
+**Find me on** <br/>
+<img alt="Linkedin" width="26px" src="https://user-images.githubusercontent.com/46393531/126030814-e29b137e-2b25-4795-8065-059ce7d6b07d.png" /> [LinkedIn](https://in.linkedin.com/in/manabsaha) <br/>
+Email me: [manabsahams@gmail.com](mailto:manabsahams@gmail.com)
 
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -20,9 +22,5 @@ I Love &hearts; to work on cool stuffs!!
 <img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/46393531/126030958-d7bae531-5dee-4938-b8ee-d0eefe7c894a.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/46393531/126031018-ab8fe3d9-372a-45a2-9f00-8fe9a55c6a3a.png" /> <br/>
 
-### Find me on
-<img alt="Linkedin" width="26px" src="https://user-images.githubusercontent.com/46393531/126030814-e29b137e-2b25-4795-8065-059ce7d6b07d.png" /> [LinkedIn](https://in.linkedin.com/in/manabsaha) <br/>
-Email me: [manabsahams@gmail.com](mailto:manabsahams@gmail.com)
-
-<!-- ### 📊 GitHub Stats: -->
-<!-- ![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=manabsaha&&show_icons=true&theme=radical) -->
+### 📊 GitHub Stats:
+![Manab Saha's github stats](https://github-readme-stats.vercel.app/api?username=manabsaha&&show_icons=true&theme=radical)
