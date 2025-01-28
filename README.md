@@ -1,7 +1,6 @@
 **Hi there, I am Manab**  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br/>
 I Love &hearts; to work on cool stuffs!!
-* 🔭 I am working on Full Stack Web Development with frameworks like React, Express and Django. <br/>
-* 🌱 I am also working on Android Development using Java language.
+* 🔭 I am working on Full Stack Web Development with .NET Core and Angular <br/>
 
 **Find me on** <br/>
 <img alt="Linkedin" width="26px" src="https://user-images.githubusercontent.com/46393531/126030814-e29b137e-2b25-4795-8065-059ce7d6b07d.png" /> [LinkedIn](https://in.linkedin.com/in/manabsaha) <br/>
